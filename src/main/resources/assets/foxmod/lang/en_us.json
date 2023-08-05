@@ -1,0 +1,13 @@
+{
+  "_comment": "Items",
+  "item.foxmod.king_paws_spawn_egg": "King Paws Spawn Egg",
+  "item.foxmod.devourer_spawn_egg": "The Devourer Spawn Egg",
+  "item.foxmod.tasty_bone": "Tasty Bone",
+
+  "entity.foxmod.king_paws": "King Paws",
+  "entity.foxmod.devourer": "The Devourer",
+  "entity.foxmod.unbreakable": "The Devourer",
+
+  "itemGroup.legend_foxes": "Legend Foxes",
+  "itemGroup.dungeons_foxes": "Dungeons Foxes"
+}
