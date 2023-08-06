@@ -43,7 +43,7 @@ public class FoxMod
     public static ResourceLocation modLoc(String name) {
         return new ResourceLocation(MOD_ID, name);
     }
-
+// again?
     public FoxMod() {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
         // Add to the constructor
