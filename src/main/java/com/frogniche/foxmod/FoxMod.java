@@ -97,7 +97,7 @@ public class FoxMod
     }
 
     public static class HelperGeoRenderer<T extends LivingEntity & IAnimatable> extends GeoEntityRenderer<T>{
-
+//example
         public HelperGeoRenderer(EntityRendererProvider.Context renderManager, AnimatedGeoModel<T> modelProvider) {
             super(renderManager, modelProvider);
         }
