@@ -95,7 +95,7 @@ public class FoxMod
     public static <T extends LivingEntity & IAnimatable> EntityRendererProvider<T> makeRenderer(AnimatedGeoModel<T> model){
         return m -> new HelperGeoRenderer<>(m, model);
     }
-
+//UGHHHHH
     public static class HelperGeoRenderer<T extends LivingEntity & IAnimatable> extends GeoEntityRenderer<T>{
 //example
         public HelperGeoRenderer(EntityRendererProvider.Context renderManager, AnimatedGeoModel<T> modelProvider) {
